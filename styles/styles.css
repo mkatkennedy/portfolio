@@ -11,6 +11,8 @@ body {
 .darkblue-bg {
   background-color: rgb(33, 120, 146);
   padding: 2px 20px 20px 20px;
+  text-align: center;
+  align-items: center;
 }
 .white-text {
   color: white;
