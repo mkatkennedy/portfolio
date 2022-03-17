@@ -8,3 +8,13 @@ body {
   padding: 0 20px 20px 20px;
   border: 1px solid black;
 }
+.darkblue-bg {
+  background-color: rgb(33, 120, 146);
+  padding: 2px 20px 20px 20px;
+}
+.white-text {
+  color: white;
+}
+.yellow-link {
+  color: rgb(235, 238, 75)
+}
