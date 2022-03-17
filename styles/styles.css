@@ -5,14 +5,12 @@ body {
   width: 1000px;
   margin: 0 auto;
   background-color: #b4dff0;
-  padding: 0 20px 20px 20px;
-  border: 1px solid black;
+  padding: 10px 20px 20px 20px;
 }
 .darkblue-bg {
   background-color: rgb(33, 120, 146);
-  padding: 2px 20px 20px 20px;
+  padding: 0px 20px 20px 20px;
   text-align: center;
-  align-items: center;
 }
 .white-text {
   color: white;
@@ -22,4 +20,7 @@ body {
 }
 .font-size16 {
   font-size: 16pt;
+}
+.top-padding {
+  padding-top: 5px;
 }
