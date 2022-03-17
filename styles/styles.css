@@ -1,14 +1,14 @@
 html {
-  background-color: hsl(0, 0%, 100%);
+  background: url(../images/snowy-tree.jpg)
 }
 body {
   width: 1000px;
   margin: 0 auto;
-  background-color: #b4dff0;
-  padding: 10px 20px 20px 20px;
+  background-color: #c3e2ff;
+  padding: 5px 20px 40px 20px;
 }
 .darkblue-bg {
-  background-color: rgb(33, 120, 146);
+  background-color: rgb(120,182,237);
   padding: 0px 20px 20px 20px;
   text-align: center;
 }
